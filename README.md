@@ -20,6 +20,7 @@ You can create calendar events by typing `cal` in the Alfred input box followed 
 - "tomorrow buy groceries at 5 pm"
 - "sync meeting on Aug 17 at 4pm for 2 hours"
 - "run for 2 hours next wednesday at 5pm"
+- "all hands next wednesday at 5pm PDT"
 
 ## Updating
 
