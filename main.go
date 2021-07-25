@@ -17,7 +17,7 @@ import (
 
 const (
 	subtitleFormat    = "Mon, Jan _2 2006 at 15:04"
-	applescriptFormat = "Mon, January _2, 2006 at 15:04:05"
+	applescriptFormat = "2006-01-02 15:04:05"
 	defaultDuration   = time.Hour
 	updateJobName     = "checkForUpdate"
 	repo              = "ruggi/calfred"
