@@ -24,7 +24,7 @@ You can create calendar events by typing `cal` in the Alfred input box followed 
 
 ## Updating
 
-The workflow will automatically look for updates in the background and prompt to download new versions when available.
+The workflow will automatically look for updates in the background and prompt to download a new version as soon as it's available.
 
 ## Credits
 
