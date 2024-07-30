@@ -9,5 +9,3 @@ require (
 	github.com/satori/uuid v1.2.0
 	golang.org/x/text v0.3.6 // indirect
 )
-
-replace github.com/ruggi/quando => /Users/federico/src/github/ruggi/quando

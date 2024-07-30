@@ -18,6 +18,8 @@ github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWb
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/ruggi/quando v1.2.0 h1:1dVcB88IxD9oe8AtWMe0a0XwQ0uPcM6Y2YKa2BMJrjI=
+github.com/ruggi/quando v1.2.0/go.mod h1:AVkLF9c++1xR8jRnqz9ty4+My2daGOs9NqmwXtsDDJs=
 github.com/satori/uuid v1.2.0 h1:6TFY4nxn5XwBx0gDfzbEMCNT6k4N/4FNIuN8RACZ0KI=
 github.com/satori/uuid v1.2.0/go.mod h1:B8HLsPLik/YNn6KKWVMDJ8nzCL8RP5WyfsnmvnAEwIU=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
